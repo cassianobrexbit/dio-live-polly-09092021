@@ -41,7 +41,7 @@ Repositório de código para o live coding da DIO sobre o Amazon Polly
 - Abrir o Postman -> Colar a URL copiada -> Selecionar POST como método
 - Copiar o body do arquivo ```src/input.json``` -> Selecionar Body no Postman -> Raw -> JSON -> Colar o conteúdo copiado -> Send
 
-### Buscando o arquivo de áudio gerado no S#
+### Buscando o arquivo de áudio gerado no S3
 
 - S3 Dashboard -> Selecionar o bucket criado -> Selecionar o arquivo gerado -> Download -> Executar o arquivo baixado
 
